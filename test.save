@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+APP_NAME=signmeup-master
+APP_DOMAIN=localhost
+APP_PORT=3000
+SETTINGS_PATH=.config/staging/settings.json
+MONGO_URL=localhost
+MONGO_PORT=27017
+MONGO_DB=myappdb
